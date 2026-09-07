@@ -2,7 +2,7 @@
   "city": "Motala",
   "centerLat": 58.54544,
   "centerLon": 15.041506,
-  "defaultZoom": 14,
+  "defaultZoom": 15,
   "cityBounds": [
     {
       "name": "Motala",
@@ -552,6 +552,31 @@
           "lon": 14.996177
         }
       ]
+    },
+    {
+      "name": "Neighborhood",
+      "points": [
+        {
+          "lat": 58.550064,
+          "lon": 15.004835
+        },
+        {
+          "lat": 58.55557,
+          "lon": 15.015306
+        },
+        {
+          "lat": 58.55191,
+          "lon": 15.02625
+        },
+        {
+          "lat": 58.54638,
+          "lon": 15.013032
+        },
+        {
+          "lat": 58.545095,
+          "lon": 15.001745
+        }
+      ]
     }
   ],
   "holes": [
@@ -831,8 +856,8 @@
       "category": "hidden",
       "geometry": "marker",
       "name": "Sync Test Pin",
-      "lat": 58.547198,
-      "lon": 15.036657,
+      "lat": 58.546269,
+      "lon": 15.031786,
       "radius": 500,
       "discoveryPoints": 5,
       "xpGain": 0,
