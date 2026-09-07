@@ -2,7 +2,7 @@
   "city": "Motala",
   "centerLat": 58.54544,
   "centerLon": 15.041506,
-  "defaultZoom": 15,
+  "defaultZoom": 14,
   "cityBounds": [
     {
       "name": "Motala",
@@ -552,51 +552,6 @@
           "lon": 14.996177
         }
       ]
-    },
-    {
-      "name": "Online Sync Test",
-      "points": [
-        {
-          "lat": 58.550064,
-          "lon": 15.004835
-        },
-        {
-          "lat": 58.550142,
-          "lon": 15.012088
-        },
-        {
-          "lat": 58.547198,
-          "lon": 15.014727
-        },
-        {
-          "lat": 58.545317,
-          "lon": 15.014791
-        },
-        {
-          "lat": 58.544947,
-          "lon": 15.014083
-        },
-        {
-          "lat": 58.545306,
-          "lon": 15.011723
-        },
-        {
-          "lat": 58.545082,
-          "lon": 15.008976
-        },
-        {
-          "lat": 58.545597,
-          "lon": 15.005801
-        },
-        {
-          "lat": 58.544152,
-          "lon": 15.004621
-        },
-        {
-          "lat": 58.545095,
-          "lon": 15.001745
-        }
-      ]
     }
   ],
   "holes": [
@@ -876,9 +831,9 @@
       "category": "hidden",
       "geometry": "marker",
       "name": "Sync Test Pin",
-      "lat": 58.552492,
-      "lon": 15.022945,
-      "radius": 1000,
+      "lat": 58.547198,
+      "lon": 15.036657,
+      "radius": 500,
       "discoveryPoints": 5,
       "xpGain": 0,
       "quiz": null
