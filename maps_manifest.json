@@ -1,0 +1,16 @@
+{
+  "maps": [
+    {
+      "fileName": "motala_hierarchical_map.json",
+      "cityName": "Motala",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/fappar/fogbound-maps/main/maps/motala_hierarchical_map.json"
+    },
+    {
+      "fileName": "vadstena_hierarchical_map.json",
+      "cityName": "Vadstena",
+      "version": 1,
+      "downloadUrl": "https://raw.githubusercontent.com/fappar/fogbound-maps/main/maps/vadstena_hierarchical_map.json"
+    }
+  ]
+}

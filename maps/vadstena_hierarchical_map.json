@@ -1,0 +1,40 @@
+{
+  "city": "Vadstena",
+  "centerLat": 58.445262,
+  "centerLon": 14.895658,
+  "defaultZoom": 13,
+  "cityBounds": [
+    {
+      "name": "Vadstena",
+      "points": [
+        {
+          "lat": 58.442366,
+          "lon": 14.868965
+        },
+        {
+          "lat": 58.455935,
+          "lon": 14.899178
+        },
+        {
+          "lat": 58.449826,
+          "lon": 14.914284
+        },
+        {
+          "lat": 58.442097,
+          "lon": 14.915142
+        },
+        {
+          "lat": 58.435535,
+          "lon": 14.899006
+        },
+        {
+          "lat": 58.436614,
+          "lon": 14.879436
+        }
+      ]
+    }
+  ],
+  "neighborhoods": [],
+  "holes": [],
+  "treasures": []
+}
